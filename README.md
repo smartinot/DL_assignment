@@ -7,4 +7,4 @@ Denoising
   - my_regressor : the regression on the triangles' vertices
 
 Reinforcement Learning:
-  - 
+  - DQN_project_MVA_2
