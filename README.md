@@ -5,7 +5,7 @@ Deep Learning course - CentraleSupelec 2018-2019
 Denoising:
   - mn1
 
-Regression!
+Regression:
   - my_regressor
 
 Reinforcement Learning:
